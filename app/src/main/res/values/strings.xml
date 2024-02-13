@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework17</string>
+    <string name="textViewTitleLogin">Login</string>
+    <string name="textFieldEnterLoginHint">Login</string>
+    <string name="textFieldEnterPasswordHint">Password</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="toolbarListCountryTitle">List of country</string>
+    <string name="imageViewFlagDescription">image of Country flag"</string>
+    <string name="textViewCountryName">country name</string>
+</resources>
